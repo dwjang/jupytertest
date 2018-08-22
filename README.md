@@ -1,2 +1,2 @@
 # jupytertest
-jupyter test repo from Binder
+jupyter test repo from mybinder.org
